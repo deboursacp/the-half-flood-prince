@@ -23,6 +23,6 @@ menu:
 
 ---
 
-### Stream & Channel
+## Stream & Channel
 
 Catch all upcoming episodes, shorts, and Bay Area kite discussion directly on the [Kiteloop TV Channel](https://www.youtube.com/@KiteloopTV).

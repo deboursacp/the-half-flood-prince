@@ -19,3 +19,8 @@ This site covers spot guides, etiquette, and general tips that I've picked up ov
 ### Contact
 
 Have a question or want to contribute? Reach out on [instagram @petey_kites](https://www.instagram.com/petey_kites).
+
+
+### Contributions
+
+I welcome everything from corrections to entire posts. If you want to submit pull requests, feel free to at [github](https://github.com/deboursacp/the-half-flood-prince/pulls).
