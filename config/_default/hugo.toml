@@ -1,6 +1,6 @@
 baseURL                = "https://the-half-flood-prince.com/"
 locale                 = "en-us"
-title                  = "The Half Flood Prince"
+title                  = "The Half Flood Prince's Guide to SF Kiting"
 defaultContentLanguage = "en"
 hasCJKLanguage         = false
 theme                  = "hugo-theme-stack"

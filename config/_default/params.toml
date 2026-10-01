@@ -5,8 +5,8 @@ favicon        = "favicon.svg"
 [footer]
     since = 2026
 
-[sidebar]
-    subtitle = "Guides to kiting in the Bay Area"
+#[sidebar]
+#    subtitle = "Guides to kiting in the Bay Area"
 
 [article]
     headingAnchor = true
