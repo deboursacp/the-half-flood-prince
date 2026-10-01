@@ -1,6 +1,6 @@
 ---
 title: "Half Moon Bay Storm Sendiquette"
-description: "Etiquette, safety, and unwritten rules for riding storm swell on the San Mateo Coast."
+description: "How we can all go big, together"
 date: 2026-09-30
 slug: half-moon-bay-storm-sendiquette
 categories:
