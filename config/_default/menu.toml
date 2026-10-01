@@ -1,0 +1,8 @@
+# Add your social links here
+[[social]]
+     identifier = "instagram"
+     name       = "Instagram"
+     url        = "https://instagram.com/petey_kites"
+
+     [social.params]
+     icon = "brand-instagram"

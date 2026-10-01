@@ -1,0 +1,13 @@
+baseURL                = "https://the-half-flood-prince.com/"
+locale                 = "en-us"
+title                  = "The Half Flood Prince"
+defaultContentLanguage = "en"
+hasCJKLanguage         = false
+theme                  = "hugo-theme-stack"
+
+[pagination]
+    pagerSize = 10
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
