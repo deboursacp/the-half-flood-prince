@@ -4,6 +4,11 @@ title                  = "The Half Flood Prince"
 defaultContentLanguage = "en"
 hasCJKLanguage         = false
 theme                  = "hugo-theme-stack"
+enableGitInfo          = true
+
+[frontmatter]
+    date    = [":filename", ":default"]
+    lastmod = [":git", "lastmod", ":fileModTime", ":default"]
 
 [pagination]
     pagerSize = 10

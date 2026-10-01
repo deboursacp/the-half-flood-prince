@@ -1,4 +1,5 @@
 ---
+image: og-banner.jpg
 menu:
     main:
         name: Home
