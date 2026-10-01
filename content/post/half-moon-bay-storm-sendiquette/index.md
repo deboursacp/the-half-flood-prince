@@ -5,11 +5,11 @@ date: 2026-09-30
 slug: half-moon-bay-storm-sendiquette
 categories:
     - Spot Guides
+    - Storm Etiquette
 tags:
     - Half Moon Bay
     - Storm Riding
     - Safety
-    - Etiquette
 image: header.jpg
 ---
 
